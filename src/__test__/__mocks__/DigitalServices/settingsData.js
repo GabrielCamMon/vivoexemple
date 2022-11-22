@@ -1,4 +1,4 @@
-const settings = [
+export const settings = [
   {
     categoryName: 'ASSINADOS',
     settings: [
@@ -73,4 +73,3 @@ const settings = [
     ],
   },
 ]
-export default settings

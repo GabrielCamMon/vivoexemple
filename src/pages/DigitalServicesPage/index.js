@@ -7,7 +7,7 @@ import {
   ResponsiveLayout,
 } from '@telefonica/mistica'
 
-import settings from '../../__test__/__mocks__/DigitalServices/settingsData'
+import { settings } from '../../__test__/__mocks__/DigitalServices/settingsData'
 import Master from '../../components/DigitalServices/master'
 import Detail from '../../components/DigitalServices/detail'
 

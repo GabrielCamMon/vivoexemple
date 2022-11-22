@@ -1,0 +1,2902 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Digital Services Page to MatchSnapshot renders correctly 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="layout"
+  >
+    <div
+      className="box box-d0"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="layout"
+        >
+          <div
+            className="grid grid-d13"
+          >
+            <div
+              className="span4 span4-d18"
+            >
+              <div
+                className="marginStack marginStack-d0"
+              >
+                <div>
+                  <div
+                    className="marginStack marginStack-d2"
+                  >
+                    <div>
+                      <h3
+                        className="text text-d0"
+                      >
+                        ASSINADOS
+                      </h3>
+                    </div>
+                    <div>
+                      <div
+                        className="negativeBox negativeBox-d0"
+                      >
+                        <div>
+                          <button
+                            className="touchable rowContent rowContent-d2 hover hover-d0"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d1"
+                            >
+                              <div
+                                className="content box box-d2"
+                              >
+                                <div
+                                  className="box box-d3"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d0"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d4"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d5"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        >
+                                          Ative sua assinatura
+                                        </span>
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d6"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d10"
+                                          >
+                                            Globoplay + Canais ao Vivo
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d4"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d5"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d10 hover hover-d8"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d6"
+                            >
+                              <div
+                                className="content box box-d7"
+                              >
+                                <div
+                                  className="box box-d8"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d1"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d8"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d15"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d10"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d20"
+                                          >
+                                            Disney+
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d9"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d10"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d18 hover hover-d16"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d11"
+                            >
+                              <div
+                                className="content box box-d12"
+                              >
+                                <div
+                                  className="box box-d13"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d2"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d12"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d25"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d14"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d30"
+                                          >
+                                            Tidal
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d14"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d15"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    className="marginStack marginStack-d16"
+                  >
+                    <div>
+                      <h3
+                        className="text text-d35"
+                      >
+                        INCLUSOS NO PLANO
+                      </h3>
+                    </div>
+                    <div>
+                      <div
+                        className="negativeBox negativeBox-d1"
+                      >
+                        <div>
+                          <button
+                            className="touchable rowContent rowContent-d26 hover hover-d24"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d16"
+                            >
+                              <div
+                                className="content box box-d17"
+                              >
+                                <div
+                                  className="box box-d18"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d3"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d18"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d40"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d20"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d45"
+                                          >
+                                            Netflix
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d19"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d20"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d34 hover hover-d32"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d21"
+                            >
+                              <div
+                                className="content box box-d22"
+                              >
+                                <div
+                                  className="box box-d23"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d4"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d22"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d50"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d24"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d55"
+                                          >
+                                            Spotify
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d24"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d25"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d42 hover hover-d40"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d26"
+                            >
+                              <div
+                                className="content box box-d27"
+                              >
+                                <div
+                                  className="box box-d28"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d5"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d26"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d60"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d28"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d65"
+                                          >
+                                            NBA
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d29"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d30"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d50 hover hover-d48"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d31"
+                            >
+                              <div
+                                className="content box box-d32"
+                              >
+                                <div
+                                  className="box box-d33"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d6"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d30"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d70"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d32"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d75"
+                                          >
+                                            NFL
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d34"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d35"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d58 hover hover-d56"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d36"
+                            >
+                              <div
+                                className="content box box-d37"
+                              >
+                                <div
+                                  className="box box-d38"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d7"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d34"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d80"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d36"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d85"
+                                          >
+                                            History Play
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d39"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d40"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d66 hover hover-d64"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d41"
+                            >
+                              <div
+                                className="content box box-d42"
+                              >
+                                <div
+                                  className="box box-d43"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d8"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d38"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d90"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d40"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d95"
+                                          >
+                                            GoRead
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d44"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d45"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="span1 span1-d15"
+            />
+            <div
+              className="span6 span6-d22"
+            >
+              <span
+                className="text text-d100"
+              >
+                Select one of the sections from the sidebar
+              </span>
+            </div>
+            <div
+              className="span1 span1-d15"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DigitalServices renders DigitalServices Page 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="layout"
+  >
+    <div
+      className="box box-d0"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="layout"
+        >
+          <div
+            className="grid grid-d13"
+          >
+            <div
+              className="span4 span4-d18"
+            >
+              <div
+                className="marginStack marginStack-d0"
+              >
+                <div>
+                  <div
+                    className="marginStack marginStack-d2"
+                  >
+                    <div>
+                      <h3
+                        className="text text-d0"
+                      >
+                        ASSINADOS
+                      </h3>
+                    </div>
+                    <div>
+                      <div
+                        className="negativeBox negativeBox-d0"
+                      >
+                        <div>
+                          <button
+                            className="touchable rowContent rowContent-d2 hover hover-d0"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d1"
+                            >
+                              <div
+                                className="content box box-d2"
+                              >
+                                <div
+                                  className="box box-d3"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d0"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d4"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d5"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        >
+                                          Ative sua assinatura
+                                        </span>
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d6"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d10"
+                                          >
+                                            Globoplay + Canais ao Vivo
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d4"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d5"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d10 hover hover-d8"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d6"
+                            >
+                              <div
+                                className="content box box-d7"
+                              >
+                                <div
+                                  className="box box-d8"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d1"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d8"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d15"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d10"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d20"
+                                          >
+                                            Disney+
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d9"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d10"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d18 hover hover-d16"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d11"
+                            >
+                              <div
+                                className="content box box-d12"
+                              >
+                                <div
+                                  className="box box-d13"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d2"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d12"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d25"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d14"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d30"
+                                          >
+                                            Tidal
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d14"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d15"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    className="marginStack marginStack-d16"
+                  >
+                    <div>
+                      <h3
+                        className="text text-d35"
+                      >
+                        INCLUSOS NO PLANO
+                      </h3>
+                    </div>
+                    <div>
+                      <div
+                        className="negativeBox negativeBox-d1"
+                      >
+                        <div>
+                          <button
+                            className="touchable rowContent rowContent-d26 hover hover-d24"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d16"
+                            >
+                              <div
+                                className="content box box-d17"
+                              >
+                                <div
+                                  className="box box-d18"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d3"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d18"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d40"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d20"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d45"
+                                          >
+                                            Netflix
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d19"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d20"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d34 hover hover-d32"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d21"
+                            >
+                              <div
+                                className="content box box-d22"
+                              >
+                                <div
+                                  className="box box-d23"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d4"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d22"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d50"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d24"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d55"
+                                          >
+                                            Spotify
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d24"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d25"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d42 hover hover-d40"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d26"
+                            >
+                              <div
+                                className="content box box-d27"
+                              >
+                                <div
+                                  className="box box-d28"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d5"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d26"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d60"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d28"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d65"
+                                          >
+                                            NBA
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d29"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d30"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d50 hover hover-d48"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d31"
+                            >
+                              <div
+                                className="content box box-d32"
+                              >
+                                <div
+                                  className="box box-d33"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d6"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d30"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d70"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d32"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d75"
+                                          >
+                                            NFL
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d34"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d35"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d58 hover hover-d56"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d36"
+                            >
+                              <div
+                                className="content box box-d37"
+                              >
+                                <div
+                                  className="box box-d38"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d7"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d34"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d80"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d36"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d85"
+                                          >
+                                            History Play
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d39"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d40"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d66 hover hover-d64"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d41"
+                            >
+                              <div
+                                className="content box box-d42"
+                              >
+                                <div
+                                  className="box box-d43"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d8"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d38"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d90"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d40"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d95"
+                                          >
+                                            GoRead
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d44"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d45"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="span1 span1-d15"
+            />
+            <div
+              className="span6 span6-d22"
+            >
+              <span
+                className="text text-d100"
+              >
+                Select one of the sections from the sidebar
+              </span>
+            </div>
+            <div
+              className="span1 span1-d15"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DigitalServices renders DigitalServices component 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="layout"
+  >
+    <div
+      className="box box-d0"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="layout"
+        >
+          <div
+            className="grid grid-d13"
+          >
+            <div
+              className="span4 span4-d18"
+            >
+              <div
+                className="marginStack marginStack-d0"
+              >
+                <div>
+                  <div
+                    className="marginStack marginStack-d2"
+                  >
+                    <div>
+                      <h3
+                        className="text text-d0"
+                      >
+                        ASSINADOS
+                      </h3>
+                    </div>
+                    <div>
+                      <div
+                        className="negativeBox negativeBox-d0"
+                      >
+                        <div>
+                          <button
+                            className="touchable rowContent rowContent-d2 hover hover-d0"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d1"
+                            >
+                              <div
+                                className="content box box-d2"
+                              >
+                                <div
+                                  className="box box-d3"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d0"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d4"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d5"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        >
+                                          Ative sua assinatura
+                                        </span>
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d6"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d10"
+                                          >
+                                            Globoplay + Canais ao Vivo
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d4"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d5"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d10 hover hover-d8"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d6"
+                            >
+                              <div
+                                className="content box box-d7"
+                              >
+                                <div
+                                  className="box box-d8"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d1"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d8"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d15"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d10"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d20"
+                                          >
+                                            Disney+
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d9"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d10"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d18 hover hover-d16"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d11"
+                            >
+                              <div
+                                className="content box box-d12"
+                              >
+                                <div
+                                  className="box box-d13"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d2"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d12"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d25"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d14"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d30"
+                                          >
+                                            Tidal
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d14"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d15"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div
+                    className="marginStack marginStack-d16"
+                  >
+                    <div>
+                      <h3
+                        className="text text-d35"
+                      >
+                        INCLUSOS NO PLANO
+                      </h3>
+                    </div>
+                    <div>
+                      <div
+                        className="negativeBox negativeBox-d1"
+                      >
+                        <div>
+                          <button
+                            className="touchable rowContent rowContent-d26 hover hover-d24"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d16"
+                            >
+                              <div
+                                className="content box box-d17"
+                              >
+                                <div
+                                  className="box box-d18"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d3"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d18"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d40"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d20"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d45"
+                                          >
+                                            Netflix
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d19"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d20"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d34 hover hover-d32"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d21"
+                            >
+                              <div
+                                className="content box box-d22"
+                              >
+                                <div
+                                  className="box box-d23"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d4"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d22"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d50"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d24"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d55"
+                                          >
+                                            Spotify
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d24"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d25"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d42 hover hover-d40"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d26"
+                            >
+                              <div
+                                className="content box box-d27"
+                              >
+                                <div
+                                  className="box box-d28"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d5"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d26"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d60"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d28"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d65"
+                                          >
+                                            NBA
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d29"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d30"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d50 hover hover-d48"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d31"
+                            >
+                              <div
+                                className="content box box-d32"
+                              >
+                                <div
+                                  className="box box-d33"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d6"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d30"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d70"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d32"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d75"
+                                          >
+                                            NFL
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d34"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d35"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d58 hover hover-d56"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d36"
+                            >
+                              <div
+                                className="content box box-d37"
+                              >
+                                <div
+                                  className="box box-d38"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d7"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d34"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d80"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d36"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d85"
+                                          >
+                                            History Play
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d39"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d40"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                          <button
+                            className="touchable rowContent rowContent-d66 hover hover-d64"
+                            disabled={false}
+                            onClick={[Function]}
+                            type="button"
+                          >
+                            <div
+                              className="box box-d41"
+                            >
+                              <div
+                                className="content box box-d42"
+                              >
+                                <div
+                                  className="box box-d43"
+                                >
+                                  <div
+                                    className="asset"
+                                  >
+                                    <div
+                                      className="circle circle-d8"
+                                    />
+                                  </div>
+                                </div>
+                                <div
+                                  className="rowBody"
+                                  style={
+                                    Object {
+                                      "justifyContent": "flex-start",
+                                    }
+                                  }
+                                >
+                                  <div
+                                    className="marginStack marginStack-d38"
+                                  >
+                                    <div>
+                                      <span
+                                        className="text text-d90"
+                                      >
+                                        <span
+                                          style={
+                                            Object {
+                                              "color": "#FF9900",
+                                            }
+                                          }
+                                        />
+                                      </span>
+                                    </div>
+                                    <div>
+                                      <div
+                                        className="marginStack marginStack-d40"
+                                      >
+                                        <div>
+                                          <span
+                                            className="text text-d95"
+                                          >
+                                            GoRead
+                                          </span>
+                                        </div>
+                                        <div />
+                                        <div />
+                                        <div />
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div
+                                  className="center box box-d44"
+                                >
+                                  <svg
+                                    height={24}
+                                    role="presentation"
+                                    viewBox="0 0 24 24"
+                                    width={24}
+                                  >
+                                    <path
+                                      d="M14.338 11.478a.75.75 0 0 1 0 1.044l-3.837 3.997a.75.75 0 1 1-1.082-1.038L12.76 12 9.42 8.52a.75.75 0 0 1 1.082-1.04l3.837 3.998z"
+                                      fill="#666666"
+                                      fillRule="evenodd"
+                                      style={
+                                        Object {
+                                          "transition": "transform 0.3s",
+                                        }
+                                      }
+                                      transform="rotate(0 12 12)"
+                                    />
+                                  </svg>
+                                </div>
+                              </div>
+                            </div>
+                          </button>
+                          <div
+                            className="box box-d45"
+                          >
+                            <div
+                              className="divider"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="span1 span1-d15"
+            />
+            <div
+              className="span6 span6-d22"
+            >
+              <span
+                className="text text-d100"
+              >
+                Select one of the sections from the sidebar
+              </span>
+            </div>
+            <div
+              className="span1 span1-d15"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
